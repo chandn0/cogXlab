@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chandn0/cogXlab/static/css/main.b82a8fc5.css",
+    "main.js": "/chandn0/cogXlab/static/js/main.6e21d66b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/chandn0/cogXlab/static/js/787.28cb0dcd.chunk.js",
+    "static/media/making .mp4": "/chandn0/cogXlab/static/media/making .157b07e55d8f92c29f0b.mp4",
+    "index.html": "/chandn0/cogXlab/index.html",
+    "main.b82a8fc5.css.map": "/chandn0/cogXlab/static/css/main.b82a8fc5.css.map",
+    "main.6e21d66b.js.map": "/chandn0/cogXlab/static/js/main.6e21d66b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/chandn0/cogXlab/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82a8fc5.css",
+    "static/js/main.6e21d66b.js"
+  ]
+}
